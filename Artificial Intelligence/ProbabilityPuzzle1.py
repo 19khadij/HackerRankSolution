@@ -1,3 +1,13 @@
+##Task
+##In a single toss of  fair (evenly-weighted) -sided dice, find the probability of that their sum will be at most .
+##
+##Output Format
+##In the editor below, submit your answer as Plain Text in the form of an irreducible fraction , where  and  are both integers.
+##
+##Your answer should resemble something like:
+##
+##3/4  
+
 
 from fractions import Fraction
 
