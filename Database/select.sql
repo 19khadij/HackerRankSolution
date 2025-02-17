@@ -1,0 +1,1 @@
+SELECT COUNT(*)  FROM Student  WHERE Number < 3000;
