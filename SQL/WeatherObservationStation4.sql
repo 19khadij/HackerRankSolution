@@ -1,0 +1,1 @@
+select (count(*) - count(Distinct City)) as difference from Station 

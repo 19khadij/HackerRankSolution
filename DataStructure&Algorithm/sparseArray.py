@@ -18,8 +18,8 @@ def matchingStrings(stringList, queries):
     return result
 if __name__ == '__main__':
 
-    stringList = ['abbb','baba','abc','abc','a','ab']
-    queries=['ab','a','abc']
+    stringList = ['abbb','baba','rrabc','abuuc','abuuc','a','ab']
+    queries=['ab','a','abc','abuuc','abuuc']
 
     res = matchingStrings(stringList, queries)
 
